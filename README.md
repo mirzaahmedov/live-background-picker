@@ -1,1 +1,1 @@
-![Preview](/autocolor_optimize.gif)
+![Preview](./autocolor_optimize.gif)
